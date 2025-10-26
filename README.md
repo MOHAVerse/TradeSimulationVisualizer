@@ -19,13 +19,17 @@ Libraries: `numpy`, `matplotlib`, `tkinter` (built-in)
 
 
 ## Run the app
-`python tradesim.pyw`
+```python
+python tradesim.pyw
+```
 
 ![Image2](https://github.com/user-attachments/assets/79c13cf1-f2f4-49c0-8ce1-88ec25d60530)
 
 
 ## or build an `.exe` using:
-`pyinstaller --onefile --noconsole tradesim.pyw`
+```python
+pyinstaller --onefile --noconsole tradesim.pyw
+```
 
 
 ## Output Example
